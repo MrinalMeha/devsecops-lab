@@ -4,7 +4,7 @@
   "description": "Demo app for DevSecOps lab",
   "main": "index.js",
   "dependencies": {
-    "express": "4.17.1",
-    "lodash": "4.17.15"
+    "express": "4.22.3",
+    "lodash": "4.18.1"
   }
 }
